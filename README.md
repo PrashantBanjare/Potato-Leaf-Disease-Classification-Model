@@ -18,4 +18,4 @@
 - Healthy 
 - Early Blight
 - Late Blight
-- [Dataset]([https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata](https://drive.google.com/drive/folders/1HyJf6Fi9X030z2qAhT_d6ql8wAA_M4TB?dmr=1&ec=wgc-drive-hero-goto](https://drive.google.com/drive/folders/1HyJf6Fi9X030z2qAhT_d6ql8wAA_M4TB?usp=sharing))]
+- [Dataset](https://drive.google.com/drive/folders/1HyJf6Fi9X030z2qAhT_d6ql8wAA_M4TB?dmr=1&ec=wgc-drive-hero-goto](https://drive.google.com/drive/folders/1HyJf6Fi9X030z2qAhT_d6ql8wAA_M4TB?usp=sharing))
